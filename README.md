@@ -1,4 +1,4 @@
 # projeto
  primeiro repositório
 
-repositório para projentos pessoas
+repositório para projetos da faculdade 
